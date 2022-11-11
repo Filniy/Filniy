@@ -3,7 +3,7 @@
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Filniy&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Filniy&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filniy&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
-<a href="https://discord.com/users/617359404848906250"><img src="https://lanyard-profile-readme.vercel.app/api/617359404848906250?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else" alt="Discord" /></a>
+<a href="https://discord.com/users/617359404848906250"><img src="https://lanyard.cnrad.dev/api/617359404848906250?borderRadius=20px&bg=00000000&idleMessage=Probably%20doing%20something%20else..." alt="Discord" /></a>
 <!--
 **Filniy/Filniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
